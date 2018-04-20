@@ -1,0 +1,27 @@
+{
+  "name": "react-material-ui-components",
+  "version": "1.0.0",
+  "description": "Some components to be used into react apps using google Material UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdalla/react-material-ui-components.git"
+  },
+  "keywords": [
+    "react",
+    "material-ui",
+    "components",
+    "reactjs",
+    "material",
+    "ui"
+  ],
+  "author": "Carlos Abdalla <carlos.abdalla@msdev.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdalla/react-material-ui-components/issues"
+  },
+  "homepage": "https://github.com/abdalla/react-material-ui-components#readme"
+}
